@@ -1,0 +1,7 @@
+{
+  "key.category.donutauction.main": "DonutSMP Auction Assistant",
+  "key.donutauction.open": "Open assistant screen",
+  "key.donutauction.toggle": "Start / pause / resume timer",
+  "key.donutauction.reset": "Reset timer",
+  "key.donutauction.copy": "Copy suggested bid to clipboard"
+}
